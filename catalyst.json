@@ -1,0 +1,6 @@
+{
+  "client": {
+    "source": "meal-api",
+    "plugin": "zcatalyst-cli-plugin-react"
+  }
+}
